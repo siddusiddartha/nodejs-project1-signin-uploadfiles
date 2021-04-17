@@ -33,7 +33,7 @@ app.post("/", function (req, res) {
     service: "gmail",
     auth: {
       user: "siddu7117@gmail.com", //Enter your email here
-      pass: "Sidduyasoda@7" // Enter your password here for functioning
+      pass: "******" // Enter your password here for functioning
     }
   });
 
